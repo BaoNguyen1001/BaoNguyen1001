@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💡 I am a rising senior student looking for opportunity to enhance experience in software development.
+💡 I am a fresher Software Engineer with almost two years of experience working in the field of development of web applications. I am looking for opportunity to enhance experience in software development.
 
 🎓 I will graduated form Ho Chi Minh University of Technology and Education (Data Engineer, Batch of 2023).
 
